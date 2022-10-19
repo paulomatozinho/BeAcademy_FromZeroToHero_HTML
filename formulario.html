@@ -1,0 +1,120 @@
+<!-- 
+    Block content (Div)
+        * action
+        * method (GET - padrão)
+ -->
+
+<form action="" method="post">
+    <!-- <fieldset name="contato">
+        <legend>Preencha o formulário de contato</legend>
+    </fieldset> -->
+
+
+    <!-- 
+        Label
+        * Associar e identificar uma ou mais tags de entrada de dados
+        * Ajuda na acessibilidade
+
+        Atributos:
+        -for
+            *Usado para fazer a conexão com outros tipos de elementos de formulário
+     -->
+    <!-- 
+    <label>Nome
+        <input type="text" id="nome">
+    </label>
+
+    <label for="age">Idade </label>
+    <input type="number" id="age"> -->
+
+    <!-- 
+        <datalist>
+            *Lista de valores com sugestões para algum elemento input
+     -->
+
+    <!-- <datalist id="prof-list">
+        <option>Luan</option>
+        <option>Jenifer</option>
+        <option>Regis</option>
+    </datalist>
+
+    <input type="text" list="prof-list" placeholder="Escolha seu professor"> -->
+
+    <fieldset>
+        <legend>Trabalhando com Inputs</legend>
+
+        <!-- Input text -->
+        <!-- <input 
+    type="text" 
+    placeholder="Preencha o seu nome" 
+    size="60" 
+    minlength="8" 
+    maxlength="20" 
+    title="Preencha os dados"> -->
+
+        <!-- Input number -->
+        <!-- <input 
+    type="number"  
+    size="50" 
+    minlength="6" 
+    maxlength="12" 
+    title="Preencha os dados"> -->
+
+        <!-- Input email -->
+        <!-- <input 
+    type="email"  
+    size="24" 
+    title="Preencha os dados"> -->
+
+        <!-- <br> -->
+        <!-- Input Password -->
+        <!-- <input 
+    type="password"  
+    size="24" 
+    title="Sua senha precisa ser  Hexadecimal" 
+    pattern="[0-9a-fA-F]{4,8}" 
+    required 
+    inputmode="numeric"> -->
+
+        <!-- Input hidden -->
+        <!-- <input type="hidden" value="Estou escondido"> -->
+
+        <!-- Input color -->
+        <!-- <input type="color"> -->
+
+        <!-- Input date,week, datetime-local, month, time -->
+        <!-- <input type="datetime-local"> -->
+
+        <label for="prof">
+            Seu interesse maior é por qual área?
+        </label>
+
+        <div>
+            <input type="checkbox" id="frontend" name="interesse" value="Front-end Luan Monteiro">
+            <label for="frontend">Front-end Luan Monteiro</label>
+            <br>
+
+            <input type="checkbox" id="backend" name="interesse" value="Back-end Regis Santos">Back-end Regis Santos
+            <label for="backend">Back-end Regis Santos</label>
+            <br>
+
+
+            <input type="checkbox" id="design" name="interesse" value="Design UI/UX Jenifer Vieira">
+            <label for="design">Design UI/UX Jenifer Vieira</label>
+        </div>
+
+        <!-- interesse = Front-end Luan Monteiro, Back-end Regis Santos... -->
+
+        <!-- Radio Button -->
+        <h3>Deseja receber notificação da be.academy</h3>
+        <label for="yes">Sim</label>
+        <input type="radio" id="yes" value="yes" name="notification">
+
+        <label for="yes">Não</label>
+        <input type="radio" id="no" value="no" name="notification">
+        <br>
+        <button type="submit">Enviar</button>
+    </fieldset>
+
+
+</form>

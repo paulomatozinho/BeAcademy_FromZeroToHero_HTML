@@ -4,11 +4,11 @@ Criação de Website inspirado no itunes.
 ## Sobre o Projeto
 Esse projeto tem finalidades acadêmicas e didáticas, trata-se da criação de uma landing page responsiva, seu modelo de criação tem como inspiração o site  iTunes, 
 
-## Conteúdo apresentado nas aulas
+## Conteúdo apresentado nas de 
 
-- O que é HTML
+- O que é 
 - Atributos e Atributos Globais
-- JavaScript
+- Aninhamento de Tags e Caractere Reservado
 - jQuery
 - Flexbox
 - CSS Grid

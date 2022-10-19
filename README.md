@@ -9,8 +9,8 @@ Esse projeto tem finalidades acadêmicas e didáticas, trata-se da criação de 
 - O que é 
 - Atributos e Atributos Globais
 - Aninhamento de Tags e Caractere Reservado
-- jQuery
-- Flexbox
+- Anatomia de um documento HTML e Semântica
+- Títulos e Parágrafos
 - CSS Grid
 - Media Query
   

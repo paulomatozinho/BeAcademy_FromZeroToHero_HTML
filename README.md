@@ -7,7 +7,7 @@ Esse projeto tem finalidades acadêmicas e didáticas, trata-se da criação de 
 ## Conteúdo apresentado nas aulas
 
 - O que é HTML
-- CSS com variáveis
+- Atributos e Atributos Globais
 - JavaScript
 - jQuery
 - Flexbox

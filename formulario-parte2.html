@@ -1,0 +1,29 @@
+<!-- textarea -->
+<form action="confirm.html" method="post">
+
+    <textarea></textarea> <br>
+
+    <label for="message">Mensagem</label>
+    <textarea id="message" name="message" cols="20" rows="8" minlength="10" maxlength="100" wrap="soft"></textarea>
+    <br><br>
+
+    <!-- optgroup -->
+
+    <label>Escolha seu professor</label>
+    <br>
+    <select name="prof">
+        <optgroup label="Professores">
+            <option value="Luan" disabled>Luan</option>
+            <option value="Regis">Regis</option>
+            <option value="Moacir">Moacir</option>
+            <option value="Jenifer">Jenifer</option>
+        </optgroup>
+
+        <optgroup label="Cursos">
+            <option value="">Front-end</option>
+            <option value="">Back-end</option>
+            <option value="">Design UI/UX</option>
+            <option value="">DevOps</option>
+        </optgroup>
+    </select>
+</form>

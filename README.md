@@ -1,8 +1,7 @@
-# MyTunes Landing Page
-Criação de Website inspirado no itunes.
+# Introdução ao HTML.
 
-## Sobre o Projeto
-Esse projeto tem finalidades acadêmicas e didáticas, trata-se da criação de uma landing page responsiva, seu modelo de criação tem como inspiração o site  iTunes, 
+Curso de introdução ao HTML
+
 
 ## Conteúdo apresentado nas de aulas
 
@@ -20,16 +19,4 @@ Esse projeto tem finalidades acadêmicas e didáticas, trata-se da criação de 
 - Formulários
 - SEO
   
-
-## Imagens do Projeto
----
- **Overview**
-![foto de Overview](./img/Overview.png)
-
-**Music Section**
-![Seção de música](./img/Music%20section.png)
-
-**Video Section**
-![Seção de vídeo](./img/Video%20Section.png)
-
 

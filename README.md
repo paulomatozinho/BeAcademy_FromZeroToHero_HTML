@@ -3,7 +3,7 @@
 Curso de introdução ao HTML
 
 
-## Conteúdo apresentado nas de aulas
+## Conteúdo apresentado nas aulas
 
 - O que é 
 - Atributos e Atributos Globais
